@@ -13,4 +13,4 @@ JavaScript, Plotly, and CSS
 
 Webpage: https://pimchanyachitsanga.github.io/plotlydiploy/
 
-<img src="webpage.png" width=400>
+<img src="webpage.png">
